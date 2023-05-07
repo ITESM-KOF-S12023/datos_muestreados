@@ -1,0 +1,3 @@
+[submodule "geojson"]
+	path = geojson
+	url = https://github.com/angelnmara/geojson.git
